@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9614'
     url: http://www.gutenberg.org/2009/agents/9614
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20930#Cosmograf-a
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2007-03-29'
 gutenberg_type: Text
